@@ -192,4 +192,4 @@ For the full philosophical foundation (quotes, anecdotes, frameworks, and the nu
 ---
 
 Built by [OpenClaw.rocks](https://openclaw.rocks). Your AI agent. Live in seconds.
-More skills: `npx skills add OpenClaw-rocks/skills --list`
+More skills: `npx skills add openclaw-rocks/skills --list`
