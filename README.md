@@ -32,10 +32,6 @@ A skill is just a folder with a `SKILL.md` file: instructions that make your AI 
 - [Blog](https://openclaw.rocks/blog)
 - [Kubernetes Operator](https://github.com/openclawrocks/openclaw-k8s-operator)
 
----
-
-*Here's to the crazy ones. The ones who install skills at 2am. The ones who ask their AI agent "what would Steve do?" and actually listen.*
-
 ## License
 
 MIT
