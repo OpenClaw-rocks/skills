@@ -6,10 +6,10 @@ Agent skills by [OpenClaw.rocks](https://openclaw.rocks) — the simplest way to
 
 ```bash
 # Install a specific skill
-npx skills add openclawrocks/skills --skill jobs-ive
+npx skills add OpenClaw-rocks/skills --skill jobs-ive
 
 # List all available skills
-npx skills add openclawrocks/skills --list
+npx skills add OpenClaw-rocks/skills --list
 ```
 
 ## Available Skills
