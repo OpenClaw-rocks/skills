@@ -1,6 +1,6 @@
 # OpenClaw Skills
 
-Agent skills by [OpenClaw.rocks](https://openclaw.rocks) — the simplest way to host AI agents.
+Agent skills by [OpenClaw.rocks](https://openclaw.rocks). The simplest way to host AI agents.
 
 ## Install
 
@@ -22,7 +22,7 @@ npx skills add OpenClaw-rocks/skills --list
 
 [Agent skills](https://agentskills.io/) are reusable capability packages for AI coding agents. They work with 27+ agent platforms including Claude Code, Cursor, GitHub Copilot, Gemini CLI, and more.
 
-A skill is just a folder with a `SKILL.md` file — instructions that make your AI agent an expert at something specific.
+A skill is just a folder with a `SKILL.md` file: instructions that make your AI agent an expert at something specific.
 
 ## About OpenClaw.rocks
 

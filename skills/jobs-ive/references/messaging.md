@@ -10,7 +10,7 @@ Jobs' foundational insight about marketing, drawn from Nike:
 
 > "Nike sells a commodity. They sell shoes. And yet, when you think of Nike, you feel something different than a shoe company. In their ads, they don't ever talk about the product. They honor great athletes and great athletics."
 
-Apple followed this: honor the people and the values, not the specs. The "Think Different" campaign honored rebels, dreamers, and innovators — Einstein, King, Earhart — not Apple products. It won the 1998 Emmy for Best Commercial.
+Apple followed this: honor the people and the values, not the specs. The "Think Different" campaign honored rebels, dreamers, and innovators (Einstein, King, Earhart), not Apple products. It won the 1998 Emmy for Best Commercial.
 
 > "Our core value is that we believe that people with passion can change the world for the better."
 
@@ -110,7 +110,7 @@ Apple loves words that work on two levels:
 ### Naming Principles
 
 1. **Short.** One or two words maximum. If you need more, you haven't distilled it enough.
-2. **Evocative.** Creates a feeling, not a description. "AirPods" — not "Wireless Earbuds."
+2. **Evocative.** Creates a feeling, not a description. "AirPods," not "Wireless Earbuds."
 3. **Consistent.** Follows the family structure.
 4. **No descriptors needed.** The product IS the name.
 5. **Modifiers are earned:** Only add "Pro," "Air," "Max," "Mini" when there's a clear product family.
@@ -121,7 +121,7 @@ Apple loves words that work on two levels:
 - Adding words to describe what it does: "SmartChat AI Messaging Platform"
 - Cramming two concepts: "DataFlow-Sync"
 - Made-up words that mean nothing: "Synergix"
-- Acronyms: "ARCP" — nobody will remember this
+- Acronyms nobody will remember: "ARCP"
 - Descriptive product categories in the name: "CloudBackup Service"
 
 ---
@@ -130,18 +130,18 @@ Apple loves words that work on two levels:
 
 His vocabulary was deliberately hyperbolic but delivered with conviction that made it feel genuine:
 
-- **"Insanely great"** — Signature phrase, reserved for the Mac originally
-- **"Revolutionary"** — For true category-creators
-- **"Magical"** — For products that felt impossible
-- **"Incredible," "breakthrough," "unbelievable"** — Standard amplifiers
-- **"One more thing..."** — The theatrical device for the biggest reveal
-- **"Boom!"** — Punctuation for live demos
+- **"Insanely great"**: Signature phrase, reserved for the Mac originally
+- **"Revolutionary"**: For true category-creators
+- **"Magical"**: For products that felt impossible
+- **"Incredible," "breakthrough," "unbelievable"**: Standard amplifiers
+- **"One more thing..."**: The theatrical device for the biggest reveal
+- **"Boom!"**: Punctuation for live demos
 
 ### The Rule of Three
 
 Jobs structured reveals in threes:
 - iPhone launch: "A widescreen iPod. A revolutionary phone. A breakthrough internet communicator."
-- Stanford speech: Three stories — "connecting the dots," "love and loss," "death"
+- Stanford speech: Three stories. "Connecting the dots," "love and loss," "death."
 - Product categories: Desktop, Portable, Consumer, Pro
 
 ### Keynote Structure
@@ -150,7 +150,7 @@ Jobs structured reveals in threes:
 2. Introduce the solution. As the hero, not as a spec sheet.
 3. Demo it live. Take the risk.
 4. Contextualize: how this changes everything.
-5. "One more thing..." — the surprise finale.
+5. "One more thing..." The surprise finale.
 6. Minimal slides. Average: 19 words across 12 slides.
 
 ---
@@ -167,8 +167,8 @@ When reviewing any piece of copy through the Jobs/Ive lens:
 - [ ] Could be repeated by a stranger after one hearing
 - [ ] Contains no hedging language ("we believe," "might," "helps")
 - [ ] Contains no jargon the user wouldn't naturally use
-- [ ] Every word earns its place (try removing each word — does the meaning survive?)
-- [ ] Feels inevitable — like the only way to say it
+- [ ] Every word earns its place (try removing each word; does the meaning survive?)
+- [ ] Feels inevitable, like the only way to say it
 
 ---
 
