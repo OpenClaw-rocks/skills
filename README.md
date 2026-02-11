@@ -16,7 +16,7 @@ npx skills add OpenClaw-rocks/skills --list
 
 | Skill | Description |
 |-------|-------------|
-| **[jobs-ive](skills/jobs-ive/)** | Channel Steve Jobs & Jony Ive's product philosophy for design, messaging, naming, pricing, and strategic decisions |
+| **[jobs-ive](skills/jobs-ive/)** | A Steve Jobs in your pocket. Product philosophy, design, messaging, naming, pricing, and strategic decisions. |
 
 ## What Are Skills?
 
@@ -31,6 +31,10 @@ A skill is just a folder with a `SKILL.md` file: instructions that make your AI 
 - [Website](https://openclaw.rocks)
 - [Blog](https://openclaw.rocks/blog)
 - [Kubernetes Operator](https://github.com/openclawrocks/openclaw-k8s-operator)
+
+---
+
+*Here's to the crazy ones. The ones who install skills at 2am. The ones who ask their AI agent "what would Steve do?" and actually listen.*
 
 ## License
 
